@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the roamgen3client documentation!
+============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**roamgen3client** is a Python library for interacting with the ROAM workflow REST API which is documented at https://metadata.roam-gen3.ona.im/api/v1/docs/.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
